@@ -1,6 +1,15 @@
 # Htb-preview-download-reloaded
 Since htb academy changed the webpage, this new downloader will download all the preview lessons on the website
 
+# How to run 
+
+If you are on linux please run the script **htb-academy-preview-downloader-reloaded.sh**:
+`bash htb-academy-preview-downloader-reloaded.sh`
+
+If you are on windows rename the extensions of **htb-academy-preview-downloader-reloaded.sh** to **htb-academy-preview-downloader-reloaded.bat**. Then run it on the cmd shell:
+`htb-academy-preview-downloader-reloaded.bat`
+
+Wait until the download is done, and then open the folder where there is the **htb-academy-preview-downloader-reloaded** script and there will be all the preview courses downloaded.
 
 # Sponsor
 Exciting News: Introducing Hack The Box Academy! lock

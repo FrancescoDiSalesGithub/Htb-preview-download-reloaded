@@ -61,6 +61,7 @@ curl -o documentation-and-reporting.html https://academy.hackthebox.com/course/p
 curl -o attacking-enterprise-network.html https://academy.hackthebox.com/course/preview/attacking-enterprise-networks
 curl -o introduction-to-windows-command-line.html https://academy.hackthebox.com/course/preview/introduction-to-windows-command-line
 curl -o introduction-to-deserialization-attacks.html https://academy.hackthebox.com/course/preview/introduction-to-deserialization-attacks
+curl -o introduction-to-assembly-language.html https://academy.hackthebox.com/course/preview/intro-to-assembly-language
 curl -o attacking-authentication-mechanisms.html https://academy.hackthebox.com/course/preview/attacking-authentication-mechanisms
 curl -o introduction-to-nosql-injection.html https://academy.hackthebox.com/course/preview/introduction-to-nosql-injection
 curl -o windows-attack-and-defense.html https://academy.hackthebox.com/course/preview/windows-attacks--defense
